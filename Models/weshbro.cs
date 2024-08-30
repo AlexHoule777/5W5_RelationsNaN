@@ -1,9 +1,10 @@
 ﻿namespace RelationsNaN.Models
 {
-    public class Genre
+    public class weshbro
     {
+
         public int Id { get; set; }
-        public string Name { get; set; }
         public List<Game> games { get; set; }
+
     }
 }
